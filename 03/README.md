@@ -75,3 +75,12 @@ info.php
 
 2. adminer
 ![](2023-05-30-11-09-44.png)
+
+# B
+1. S3 (Simple Storage Service) ist ein Speicherdienst von Amazon Web Services (AWS), der als Objektspeichermodell klassifiziert wird.
+
+![](2023-05-30-11-38-26.png)
+zweite volume
+![](2023-05-30-11-39-46.png)
+die EBS volumes mit "Delete on Termination" werden auch gelöscht.
+das heisst das volume, das wir erstellt haben werden nach terminiertung von der EC2 instanzen nich gelöscht.

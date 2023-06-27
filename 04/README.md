@@ -1,17 +1,10 @@
 ![](2023-06-06-10-51-27.png)
 my subnet :D
 
-## security groups
-![](2023-06-06-11-11-29.png)
-web server security group
-
-![](2023-06-06-11-13-06.png)
-db server security group
-
 ## elastic ip's
 ![](2023-06-06-11-16-49.png)
 
-## network interface
+## network interfaces
 ![](2023-06-06-11-29-03.png)
 web
 ![](2023-06-06-11-29-19.png)
@@ -26,14 +19,27 @@ liste von den security groups
 die inbound rules sind für die web server security group
 
 ### db
-![](2023-06-20-11-27-47.png)
+![](2023-06-27-09-05-56.png)
 die inbound rules sind für die db server security group
 
 ### info.php
 ![](2023-06-20-11-44-20.png)
+info.php page
 
 ### index.html
 ![](2023-06-20-11-44-52.png)
+index.html page
+
+### db.php
+![](2023-06-27-09-02-27.png)
+db.php page
+
+## Instanzen
+![](2023-06-27-09-06-21.png)
+k04-db-1
+
+![](2023-06-27-09-06-50.png)
+k04-web-1
 
 
 

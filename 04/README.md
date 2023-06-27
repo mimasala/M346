@@ -4,15 +4,22 @@ my subnet :D
 ## elastic ip's
 ![](2023-06-06-11-16-49.png)
 
+## Security groups
+![](2023-06-20-11-26-58.png)
+liste von den security groups
+
+![](2023-06-06-11-11-29.png)
+web server security group
+
+![](2023-06-06-11-13-06.png)
+db server security group
+
 ## network interfaces
 ![](2023-06-06-11-29-03.png)
 web
 ![](2023-06-06-11-29-19.png)
 db
 
-## Security groups
-![](2023-06-20-11-26-58.png)
-liste von den security groups
 
 ### web
 ![](2023-06-20-11-27-32.png)

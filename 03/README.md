@@ -85,6 +85,9 @@ Daten werden schnell zugreifbar gespeichert (oft auf SSD)
 ![](2023-05-30-11-38-26.png)
 zweite volume
 
+![](2023-06-27-08-26-18.png)
+Die EB-Storages.
+
 ![](2023-05-30-11-39-46.png)
 die EBS volumes mit "Delete on Termination" werden auch gelöscht.
 das heisst das volume, das wir erstellt haben werden nach terminiertung von der EC2 instanzen nich gelöscht.
@@ -93,7 +96,7 @@ das heisst das volume, das wir erstellt haben werden nach terminiertung von der 
 
 ---
 
-# B nochmal, weil oben unvollständig
+## B zum Teil nochmal, weil oben unvollständig
 
 ![](2023-06-13-08-45-05.png)
 Instanz vor dem Löschen
@@ -103,3 +106,4 @@ Instanz die Warnung beim löschen.
 
 ![](2023-06-13-08-47-51.png)
 Die Instanz wurde terminiert.
+Das Volume wurde nicht gelöscht. Weil wir "Delete on Termination" nicht aktiviert haben.
